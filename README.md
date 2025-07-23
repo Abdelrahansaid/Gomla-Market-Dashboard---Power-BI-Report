@@ -16,7 +16,7 @@ This project presents a professional dashboard built using **Power BI** to analy
 
 You can view the full interactive dashboard design in the following PDF report:
 
-👉 [Click here to view the dashboard]([https://github.com/Abdelrahansaid/Gomla-Market-Dashboard---Power-BI-Report/blob/main/PDF-Dashboard.pdf])
+👉 [Click here to view the dashboard](https://github.com/Abdelrahansaid/Gomla-Market-Dashboard---Power-BI-Report/blob/main/PDF-Dashboard.pdf)
 
 ---
 
